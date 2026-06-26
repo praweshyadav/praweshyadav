@@ -12,10 +12,12 @@
 <img src="https://img.shields.io/github/stars/praweshyadav?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prawesh-yadav-03840b404/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavprawesh99@gmail.com) 
 
+---
 
 # 💻 Tech Stack:
 
