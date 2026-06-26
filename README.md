@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:007ACC&height=180&section=header&text=Prawesh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋, I'm Prawesh Yadav
-
-### 🚀 Aspiring AI/ML Engineer | Data Science Enthusiast | Computer Science Undergraduate
 
 # Hi 👋, I'm Prawesh Yadav
 
@@ -70,25 +67,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 AI Course Assistant
-
-🔹 Handwritten Digit Classifier
-
-🔹 Customer Churn Prediction
-
-🔹 N-Puzzle AI Solver
-
-🔹 Tic-Tac-Toe AI
 
 ## 🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/praweshyadav/AI-Course-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=AI-Course-Assistant&theme=dark" />
-</a>
 
 <a href="https://github.com/praweshyadav/Handwritten-Digit-Classifier">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=Handwritten-Digit-Classifier&theme=dark" />
