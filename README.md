@@ -47,7 +47,7 @@
 ⚡ Fun Fact: I enjoy solving real-world problems using AI.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=100&section=footer"/>
+
 ---
 
 ## 📈 Contribution Graph
@@ -73,25 +73,24 @@
 
 <p align="center">
 
-
-<a href="https://github.com/praweshyadav/Handwritten-Digit-Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=Handwritten-Digit-Classifier&theme=dark" />
+<a href="https://github.com/praweshyadav/handwritten-digit-classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=handwritten-digit-classifier&theme=dark" />
 </a>
 
-<a href="https://github.com/praweshyadav/Customer-Churn-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=Customer-Churn-Prediction&theme=dark" />
+<a href="https://github.com/praweshyadav/customer-churn-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=customer-churn-prediction&theme=dark" />
 </a>
 
-<a href="https://github.com/praweshyadav/NPuzzle-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=NPuzzle-AI&theme=dark" />
+<a href="https://github.com/praweshyadav/npuzzle-ai-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=npuzzle-ai-Game&theme=dark" />
 </a>
 
-<a href="https://github.com/praweshyadav/Tic-Tac-Toe-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=Tic-Tac-Toe-AI&theme=dark" />
+<a href="https://github.com/praweshyadav/tic-tac-toe-ai-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=tic-tac-toe-ai-game&theme=dark" />
 </a>
 
-<a href="https://github.com/praweshyadav/Agentic-AI-Course-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=Agentic-AI-Course-Assistant&theme=dark" />
+<a href="https://github.com/praweshyadav/agentic-ai-course-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=agentic-ai-course-assistant&theme=dark" />
 </a>
 
 </p>
@@ -121,4 +120,5 @@
 
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=100&section=footer"/>
 </p>
