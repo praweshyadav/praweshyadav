@@ -1,91 +1,71 @@
-# Hi 👋, I'm Prawesh Yadav
-
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Data Science Enthusiast | Computer Science Undergraduate</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Data+Science+Learner;Deep+Learning+Explorer;Generative+AI+%7C+Python+Developer" />
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-💡 Passionate about building intelligent applications using **Machine Learning, Deep Learning, NLP, and Generative AI**.
-
-- 🔭 Currently building AI/ML & Deep Learning Projects
-- 🌱 Learning **Generative AI, LangChain, RAG, AWS & Microsoft Azure**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning & Data Analytics**
-- 📫 Reach me at **yadavprawesh99@gmail.com**
-- ⚡ Fun Fact: *I love solving real-world problems using AI.*
-
----
-
-## 🌐 Connect With Me
+# Prawesh Yadav
+**AI / ML Engineer • Computer Science Undergraduate**
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yadavprawesh99@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:yadavprawesh99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## Technical Profile
+Driven Computer Science undergraduate specializing in building scalable Machine Learning pipelines, Deep Learning architectures, and Generative AI systems. Adept at transforming raw, complex data distributions into high-performance predictive models.
+
+* **Current Focus:** Advanced Neural Network Architectures, LLMs, and RAG Integration Frameworks.
+* **Core Domains:** Predictive Modeling, Feature Engineering, Advanced Data Analytics, and Optimization.
+* **Systems Design:** Strong foundation in highly cohesive, low-coupled architectures, SDLC methodologies, and UML modeling.
+
+---
+
+## Core Competencies & Tech Stack
+
+**Languages & Databases**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+**Data Engineering & Machine Learning**  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+
+**Deep Learning Frameworks**  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+
+**Infrastructure, Tools & Deployment**  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+---
+
+## Featured Engineering Projects
+
+| Project | Target Architecture | Implementation Details |
+| :--- | :--- | :--- |
+| **AI Course Assistant** | Agentic AI Systems | Multi-agent framework built with LLMs and Streamlit to serve custom interactive learning pipelines. |
+| **Handwritten Digit Classifier** | Deep Learning & CNNs | Implemented image feature extraction and pixel distribution handling for real-time digit recognition. |
+| **Customer Churn Prediction** | Predictive Analytics | Built an end-to-end classification pipeline applying standard variance scaling and ensemble learning. |
+| **N-Puzzle AI Solver** | Heuristic Search | Formulated algorithmic solutions to solve high-dimensional puzzle configurations utilizing optimized A* search. |
+| **Tic-Tac-Toe AI** | Adversarial Game Theory | Developed an unbeatable algorithmic gaming engine leveraging decision boundary optimization and Minimax. |
+
+---
+
+## Git Metrics & Performance Analytics
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praweshyadav&theme=darkhub&no-bg=true&margin-w=15" alt="praweshyadav trophies" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=praweshyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=praweshyadav&theme=dark&hide_border=false" height="180" alt="GitHub Streak"/>
+</p>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=praweshyadav&theme=dark&hide_border=false&layout=compact" height="150" alt="Top Languages"/>
+</p>
 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praweshyadav&theme=github-dark-flexible&bg_color=0d1117&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🧠 Core Skills
-
-- Machine Learning
-- Deep Learning
-- Data Analytics
-- Data Visualization
-- Feature Engineering
-- Neural Networks
-- Model Evaluation
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Data Structures & Algorithms
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Course Assistant | Agentic AI application built with Streamlit and LLMs. |
-| 🧠 Handwritten Digit Classifier | CNN model for handwritten digit recognition. |
-| 📉 Customer Churn Prediction | Machine Learning model for churn prediction. |
-| 🎮 N-Puzzle AI Solver | Artificial Intelligence puzzle solver using A*. |
-| ❌ Tic Tac Toe AI | Minimax Algorithm implementation. |
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praweshyadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
