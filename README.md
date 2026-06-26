@@ -45,6 +45,23 @@ learning: [LLMs, RAG, LangChain, AWS]
 building: Real-world AI & Machine Learning Projects
 motto: "Learn • Build • Deploy • Improve""
 ```
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praweshyadav&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=praweshyadav&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praweshyadav&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
