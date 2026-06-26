@@ -42,7 +42,7 @@ role: AI/ML Engineer
 education: Computer Science Undergraduate
 focus: [AI, Machine Learning, Deep Learning]
 learning: [LLMs, RAG, LangChain, AWS]
-building: Real-world AI Applications
+building: Real-world AI & Machine Learning Projects
 email: yadavprawesh99@gmail.com
 motto: "Learn • Build • Deploy • Improve""
 ```
