@@ -43,7 +43,6 @@ education: Computer Science Undergraduate
 focus: [AI, Machine Learning, Deep Learning]
 learning: [LLMs, RAG, LangChain, AWS]
 building: Real-world AI & Machine Learning Projects
-email: yadavprawesh99@gmail.com
 motto: "Learn • Build • Deploy • Improve""
 ```
 
@@ -97,6 +96,9 @@ motto: "Learn • Build • Deploy • Improve""
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=100&section=footer"/>
+
 </p>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=100&section=footer"/>
