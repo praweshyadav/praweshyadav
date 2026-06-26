@@ -47,7 +47,7 @@
 ⚡ Fun Fact: I enjoy solving real-world problems using AI.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C4CC&height=100&section=footer"/>
 ---
 
 ## 📈 Contribution Graph
