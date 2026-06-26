@@ -43,6 +43,25 @@
 
 ⚡ Fun Fact: I enjoy solving real-world problems using AI.
 
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=praweshyadav\&theme=react-dark\&hide_border=true)
+
+---
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praweshyadav/praweshyadav/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+![Snake animation](https://github.com/praweshyadav/praweshyadav/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -67,20 +86,6 @@
 * LangChain
 * LangGraph
 * AWS
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=praweshyadav\&theme=react-dark\&hide_border=true)
-
----
-
-## ⚡ GitHub Contribution Snake
-
-> Enable this after creating the GitHub Actions workflow.
-
-![Snake animation](https://github.com/praweshyadav/praweshyadav/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
