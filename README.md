@@ -36,21 +36,16 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Undergraduate
-
-🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science
-
-🌱 Currently learning Generative AI, LangChain, AWS and Microsoft Azure
-
-🚀 Building real-world AI applications
-
-💬 Ask me about Python, Machine Learning, Deep Learning and Data Analytics
-
-📫 Email: **[yadavprawesh99@gmail.com](mailto:yadavprawesh99@gmail.com)**
-
-⚡ Fun Fact: I enjoy solving real-world problems using AI.
-
-
+```yaml id="ftwknw"
+name: Prawesh Yadav
+role: AI/ML Engineer
+education: Computer Science Undergraduate
+focus: [AI, Machine Learning, Deep Learning]
+learning: [LLMs, RAG, LangChain, AWS]
+building: Real-world AI Applications
+email: yadavprawesh99@gmail.com
+motto: "Learn • Build • Deploy • Improve""
+```
 
 ---
 
@@ -98,27 +93,6 @@
 </a>
 
 </p>
-
----
-
-## 🎯 Currently Learning
-
-* deeplearning
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* LangGraph
-* AWS
-
----
-
-## 📚 Currently Exploring
-
-* Machine Learning
-* Deep Learning
-* NLP
-* AI Agents
-* Cloud Computing
 
 ---
 
