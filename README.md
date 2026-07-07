@@ -83,31 +83,29 @@ motto: "Learn • Build • Deploy • Improve""
 <p align="center">
 
 <a href="https://github.com/praweshyadav/handwritten-digit-classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=handwritten-digit-classifier&theme=dark" />
+  <img src="https://github-readme-stats-two-xi-85.vercel.app/api/pin/?username=praweshyadav&repo=handwritten-digit-classifier&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/praweshyadav/customer-churn-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=customer-churn-prediction&theme=dark" />
+  <img src="https://github-readme-stats-two-xi-85.vercel.app/api/pin/?username=praweshyadav&repo=customer-churn-prediction&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/praweshyadav/npuzzle-ai-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=npuzzle-ai-Game&theme=dark" />
+  <img src="https://github-readme-stats-two-xi-85.vercel.app/api/pin/?username=praweshyadav&repo=npuzzle-ai-Game&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/praweshyadav/tic-tac-toe-ai-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=tic-tac-toe-ai-game&theme=dark" />
+  <img src="https://github-readme-stats-two-xi-85.vercel.app/api/pin/?username=praweshyadav&repo=tic-tac-toe-ai-game&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/praweshyadav/agentic-ai-course-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=praweshyadav&repo=agentic-ai-course-assistant&theme=dark" />
+  <img src="https://github-readme-stats-two-xi-85.vercel.app/api/pin/?username=praweshyadav&repo=agentic-ai-course-assistant&theme=github_dark&hide_border=true" />
 </a>
 
 </p>
 
 ---
-
 <p align="center">
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </p>
